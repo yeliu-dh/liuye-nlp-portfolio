@@ -10,17 +10,9 @@
 
 
 # 项目经历：
-这里汇总了我在语言学、NLP 与社会语言分析方面的一些项目。  
+这里汇总了我在NLP 和LLM应用，心理学，社会学，市场营销分析方面的一些项目。  
 Each project title links to its own GitHub repo for details.
-
----
-
-## NLP & Text Analysis
 
 - **[Airbnb Host Persona Analysis](https://github.com/yourname/airbnb-self-presentation)**  
   基于 Goffman 理论的 Airbnb 房东印象管理策略分析（文本 + 图像结合）
 
-- **[French Review Sentiment Analysis](https://github.com/yourname/french-sentiment-nlp)**  
-  法语评论数据集的情感分类与关键词提取
-
---
